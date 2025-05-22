@@ -13,4 +13,6 @@ Este conjunto de datos contiene informacion detallada acerca de las ventas de la
 
     + Fernando limpieza por la tarde    **Todos**  *Todos*
 
-      ![20191117_172418](https://github.com/user-attachments/assets/44cdfcea-bf23-4b1b-9107-b9c72ee4b3ca)
+      
+
+![WhatsApp Image 2024-05-22 at 16 20 48](https://github.com/user-attachments/assets/2f088563-1c56-43ea-be05-656eb2b8f390)
